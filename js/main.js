@@ -101,6 +101,10 @@ function commander(cmd) {
     case "social":
       loopLines(social, "color2 margin", 80);
       break;
+    case "video":
+      addLine("Opening YouTube...", "color2", 80);
+      newTab(youtube);
+      break;
     case "secret":
       liner.classList.add("password");
       pw = true;
