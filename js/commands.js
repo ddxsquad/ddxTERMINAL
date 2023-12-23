@@ -1,33 +1,31 @@
-var youtube = "https://www.youtube.com/fknight/";
-var twitter = "https://www.twitter.com/forrestpknight/";
-var password = "fkcodes";
-var linkedin = "https://www.linkedin.com/in/forrestpknight/";
-var instagram = "https://www.instagram.com/forrestpknight/";
-var github = "https://github.com/ddxclue/";
-var email = 'mailto:forrest@fkcodes.com';
+var ddxsquad = "https://www.playbook.com/s/ddxsquad/main-characters";
+var substack = "https://substack.com/@detectivele";
+var password = "yog1tr0n";
+var masterle = "https://dev.mast3rle.xyz/about";
+var github = "https://github.com/ddxsquad/";
+var email = 'mailto:theReal@mast3rle.xyz';
+var korokforest = 'https://forest.mast3rle.xyz/';
 
 whois = [
   "<br>",
   "Sop!👋",
+  "This is the ddxSQUAD aka Detective Le.... and Y0G1TR0N... oh, ya Master Le too.",
   "So.... come here to take a gander at the ddxCLUE terminal, eh? DARE to see more?",
-  "<br>"
+  "<br>",
   "Well, go on... continue to try out those cmds...",
   "<br>"
 ];
 
 whoami = [
   "<br>",
-  "The paradox of “Who am I?” is: we never know, but, we constantly find out.",
+  "Who am I? BOY WAT DA HAIL BOY-- WHO ARE YAO!",
   "<br>"
 ];
 
 social = [
   "<br>",
-  'youtube        <a href="' + youtube + '" target="_blank">youtube/fknight' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/forrestpknight' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/forrestpknight' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/forrestknight' + "</a>",
+  'substack       <a href="' + substack + '" target="_blank">substack/@detectivele' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/ddxsquad' + "</a>",
   "<br>"
 ];
 
@@ -39,15 +37,18 @@ secret = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
-  "<br>"
+  "Still curating... in other words, they are scattered all over the web.", 
+  "I may or may not even know where they are...But... for now.... you can meet...",
+  `The <a href='${masterle}' target='_blank'>master</a> ...if you dare...`,
+  "<br>",
 ];
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          Who is Forrest?',
+  '<span class="command">whois</span>          Who is behind all this!?',
   '<span class="command">whoami</span>         Who are you?',
-  '<span class="command">video</span>          View YouTube videos',
+  '<span class="command">squad</span>          Who tf is the ddxSQUAD?',
+  '<span class="command">video</span>          View a YouTube video',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
   '<span class="command">projects</span>       View coding projects',
@@ -60,7 +61,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">PS C:/usrs/detectiv-le> git init ddxTERMINAL</span>',
+  '<span class="index">PS C:/usrs/detectivele> git init ddxTERMINAL</span>',
   '<span class="index">🤖 Y0G1-TR0N: ddxclue initating....</span>',
   '<span class="index">🤖 Y0G1-TR0N: bruff-bruff...where is... ball...</span>',
   "<br>",
