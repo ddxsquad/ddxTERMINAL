@@ -1,4 +1,4 @@
-🤖 Y0G1-TR0N: ddxclue initating....
+🤖 Y0G1-TR0N: "ddxclue initating...."
+🤖 Y0G1-TR0N: "bruff bruff... where is stick.... init complete!"
 
-🤖 Y0G1-TR0N: bruff bruff... where is stick.... 
-
+# walcam to the ddxTERMINAL.
