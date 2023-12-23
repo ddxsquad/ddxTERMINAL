@@ -19,7 +19,7 @@ whois = [
 
 whoami = [
   "<br>",
-  "Who am I? BOY WAT DA HAIL BOY-- WHO ARE YAO!",
+  "DAT A GOOD QUESTION! WHO ARE YUS????????? WOT R U DOING IN ME TERMINAL?",
   "<br>"
 ];
 
