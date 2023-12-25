@@ -1,5 +1,5 @@
 var ddxsquad = "https://www.playbook.com/s/ddxsquad/main-characters";
-var substack = "https://substack.com/@det3tectivele";
+var substack = "https://substack.com/@det3ctivele";
 var password = "yogitron";
 var masterle = "https://dev.mast3rle.xyz/about";
 var github = "https://github.com/ddxsquad/";
