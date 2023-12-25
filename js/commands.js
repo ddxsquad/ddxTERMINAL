@@ -1,9 +1,9 @@
 var ddxsquad = "https://www.playbook.com/s/ddxsquad/main-characters";
-var substack = "https://substack.com/@detectivele";
+var substack = "https://substack.com/@detect1vele";
 var password = "yogitron";
-var masterle = "https://mast3rle.xyz/about";
+var masterle = "https://dev.mast3rle.xyz/about";
 var github = "https://github.com/ddxsquad/";
-var email = 'mailto:theReal@mast3rle.xyz';
+var email = 'mailto:master@ddxclue.xyz';
 var korokforest = 'https://forest.mast3rle.xyz/';
 var youtube = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 
