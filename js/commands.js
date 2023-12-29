@@ -6,6 +6,8 @@ var github = "https://github.com/ddxsquad/";
 var email = 'mailto:master@ddxclue.xyz';
 var korokforest = 'https://forest.mast3rle.xyz/';
 var youtube = "https://www.youtube.com/watch?v=UieeBxPVvHM";
+var mateo = "https://masterle.notion.site/To-El-Mateo-9f4f1e2ccdcb41f3b092890316d4badf?pvs=4"
+var johanna = "https://masterle.notion.site/To-La-Johanna-31cb836a6cfc4bb0afdd1974f1fe2705?pvs=4"
 
 whois = [
   "<br>",
@@ -25,8 +27,8 @@ whoami = [
 
 social = [
   "<br>",
-  'substack       <a href="' + substack + '" target="_blank">substack/@detectivele' + "</a>",
-  'github         <a href="' + github + '" target="_blank">github/ddxsquad' + "</a>",
+  'mateo       <a href="' + mateo + '" target="_blank">el mateo' + "</a>",
+  'johanna         <a href="' + johanna + '" target="_blank">la johanna' + "</a>",
   "<br>"
 ];
 
