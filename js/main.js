@@ -99,7 +99,7 @@ function commander(cmd) {
       }, 1000); 
       break;
     case "frans":
-      loopLines(social, "color2 margin", 80);
+      loopLines(frans, "color2 margin", 80);
       break;
     case "video":
       addLine("Opening YouTube...", "color2", 80);
