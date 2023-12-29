@@ -25,10 +25,10 @@ whoami = [
   "<br>"
 ];
 
-social = [
+frans = [
   "<br>",
   'mateo       <a href="' + mateo + '" target="_blank">el mateo' + "</a>",
-  'johanna         <a href="' + johanna + '" target="_blank">la johanna' + "</a>",
+  'johanna     <a href="' + johanna + '" target="_blank">la johanna' + "</a>",
   "<br>"
 ];
 

@@ -98,7 +98,7 @@ function commander(cmd) {
         window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
       }, 1000); 
       break;
-    case "social":
+    case "frans":
       loopLines(social, "color2 margin", 80);
       break;
     case "video":
