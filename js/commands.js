@@ -1,4 +1,4 @@
-var ddxsquad = "https://www.playbook.com/s/ddxsquad/main-characters";
+var ddxsquad = "https://www.playbook.com/s/hearts-n-crafts/ddxsquad";
 var substack = "https://substack.com/@det3ctivele";
 var password = "yogitron";
 var masterle = "https://mast3rle.xyz/about";
